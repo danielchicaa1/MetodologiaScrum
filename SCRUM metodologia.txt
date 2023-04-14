@@ -1,0 +1,17 @@
+SCRUM
+
+Metodologia para gestionar proyectos con agilismo
+
+Roles
+
+Product owner : habla con el cliente y construye las tareas
+
+Scrum master: Facilitar el trabajo del equio
+
+Team Member: Diseñador , Desarrollador , Tester
+
+Kiss :Actividades simples
+Tareas realizables en un periodo de tiempo
+
+Backlog :  product backlog
+sprint backlog
